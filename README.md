@@ -63,4 +63,4 @@ Awareness Training: Used in training sessions to show real data and increase awa
 Academic and Research: Assists in analyzing patterns for papers and whitepapers on digital threat intelligence.
 
 
-Output
+Output : ![Image](https://github.com/user-attachments/assets/18b5eed2-00bb-4ade-9254-359a33e69262)
